@@ -119,28 +119,28 @@ http://0.0.0.0:8000/docs
 
 Email для регистрации: `student_sharonov@email.com`
 
-![Регистрация](screenshots/01_register.png)
+![Регистрация](https://github.com/VitalySSH/llm-p/blob/main/app/screenshots/01_register.png)
 
 ### Логин и получение JWT (POST /auth/login)
 
-![Логин](screenshots/02_login.png)
+![Логин](https://github.com/VitalySSH/llm-p/blob/main/app/screenshots/02_login.png)
 
 ### Авторизация через Swagger (кнопка Authorize)
 
-![Authorize](screenshots/03_authorize.png)
+![Authorize](https://github.com/VitalySSH/llm-p/blob/main/app/screenshots/03_authorize.png)
 
 ### Профиль пользователя (GET /auth/me)
 
-![Профиль](screenshots/04_me.png)
+![Профиль](https://github.com/VitalySSH/llm-p/blob/main/app/screenshots/04_me.png)
 
 ### Запрос к LLM (POST /chat)
 
-![Чат](screenshots/05_chat.png)
+![Чат](https://github.com/VitalySSH/llm-p/blob/main/app/screenshots/05_chat.png)
 
 ### История диалога (GET /chat/history)
 
-![История](screenshots/06_history.png)
+![История](https://github.com/VitalySSH/llm-p/blob/main/app/screenshots/06_history.png)
 
 ### Удаление истории (DELETE /chat/history)
 
-![Удаление](screenshots/07_delete_history.png)
+![Удаление](https://github.com/VitalySSH/llm-p/blob/main/app/screenshots/07_delete_history.png)
